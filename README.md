@@ -5,6 +5,7 @@ Create slides from lyrics extracted from online according to powerpoint slide fo
 Macros to allow smooth video background in powerpoint except when jumping of slides<br>
 Automated extraction (web scraping) and reporting of lyrics from CCLI songselect broke due to new interface<br>
 Extraction of lyrics from other websites (Lyrics, LyricsOnDemand, WorshipTogether, AZLyrics, Musixmatch) is legacy<br>
+Need to compile with VideoCrop project<br>
 <br>
 ## Format of song file<br>
 Title<br>
