@@ -1,0 +1,8 @@
+Default templates directory:/Users/mark/Desktop/Slides/Slides mac/Templates
+Search order:Genius,AZLyrics,WorshipTogether,Musixmatch,KLove,LyricsOnDemand,Lyrics,UltimateGuitar
+Default songs directory:/Users/mark/Desktop/Slides/Slides mac/Songs
+Template:
+Video:
+Items per search:3
+Default videos directory:/Users/mark/Desktop/Slides/Slides mac/Videos
+Maximum lines for CCLI:3

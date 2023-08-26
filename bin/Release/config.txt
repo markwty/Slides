@@ -1,0 +1,8 @@
+Default videos directory:C:\Users\mark\Desktop\Projects\Slides\Videos
+Default songs directory:C:\Users\mark\Desktop\Projects\Slides\Songs
+Maximum lines for CCLI:3
+Video:
+Template:normal.pptx
+Items per search:3
+Default templates directory:C:\Users\mark\Desktop\Projects\Slides\Templates
+Search order:Lyrics,LyricsOnDemand,WorshipTogether,AZLyrics,Musixmatch,

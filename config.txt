@@ -1,0 +1,8 @@
+Default videos directory:Videos
+Default songs directory:Songs
+Maximum lines for CCLI:3
+Video:
+Template:christmas.pptx
+Items per search:3
+Default templates directory:Templates
+Search order:Lyrics,LyricsOnDemand,WorshipTogether,AZLyrics,Musixmatch,

@@ -1,0 +1,4 @@
+aaaa ICON "slides.ico"
+app_logo ICON "slides.ico"
+
+#include "wx/msw/wx.rc"
